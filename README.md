@@ -18,4 +18,4 @@
 ##### 插入链接
 这是我的学校[清华大学](https://www.tsinghua.edu.cn/publish/thu2018/index.html)
 
-这是她最标志性的建筑![](C:\Users\wuyic\Pictures\2018-01\IMG_20180129_100738)
+这是校园地图![](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/picture/map_2019_0426.jpg)
