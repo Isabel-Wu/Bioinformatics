@@ -18,4 +18,4 @@
 ##### 插入链接
 这是我的学校: [清华大学](https://www.tsinghua.edu.cn/publish/thu2018/index.html)
 
-这是校园地图![](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/picture/map_2019_0426.jpg)
+这是校园地图：![地图](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/picture/map_2019_0426.jpg)
