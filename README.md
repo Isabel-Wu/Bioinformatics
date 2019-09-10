@@ -17,8 +17,8 @@
 
 ##### 插入链接
 这是我的学校: [清华大学](https://www.tsinghua.edu.cn/publish/thu2018/index.html)
-
-这是校园地图：![](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/picture/map_2019_0426.jpg)
+这是校园地图：
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1568723821&di=0680fa89c43840802c31ff8b4b907e3e&imgtype=jpg&er=1&src=http%3A%2F%2Fs13.sinaimg.cn%2Fmw690%2F001wbQd9zy7m0byX8gA0c%26amp%3B690)
 
 ##### 引用一首很喜欢的李清照的词
 > 天接云涛连晓雾，星河欲转千帆舞。
