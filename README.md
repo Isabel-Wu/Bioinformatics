@@ -18,7 +18,7 @@
 ##### 插入链接
 这是我的学校: [清华大学](https://www.tsinghua.edu.cn/publish/thu2018/index.html)
 
-这是校园地图：![地图]()
+这是校园地图：![](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/picture/map_2019_0426.jpg)
 
 ##### 引用一首很喜欢的李清照的词
 > 天接云涛连晓雾，星河欲转千帆舞。
@@ -26,6 +26,8 @@
 > 我报路长嗟日暮，学诗谩有惊人句。
 > 九万里风鹏正举。风休住，蓬舟吹取三山去。
 
+---
+***
 ### 代码引用
 `print("Hello World!")`
 
